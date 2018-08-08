@@ -1,0 +1,24 @@
+/.cvsignore/1.1.1.1/Wed Mar 17 14:26:45 1999//Tcommapi-0-0-1
+/I2CImp.c/1.1.2.12/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/I2CImp.h/1.1.2.9/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/Parallel.def/1.1.2.1/Tue Nov 12 18:55:06 2002//Tcommapi-0-0-1
+/ParallelImp.c/1.15.2.35/Thu Nov 27 20:01:48 2008//Tcommapi-0-0-1
+/ParallelImp.h/1.5.2.14/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/RS485Imp.c/1.1.2.12/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/RS485Imp.h/1.1.2.8/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/RawImp.c/1.1.2.12/Sun Nov 18 22:32:42 2007//Tcommapi-0-0-1
+/RawImp.h/1.1.2.8/Thu Apr 26 05:26:05 2007//Tcommapi-0-0-1
+/Serial.def/1.1.2.18/Tue Jan 17 01:59:40 2006//Tcommapi-0-0-1
+/SerialImp.cpp/1.1.2.10/Thu Apr 26 05:26:06 2007//Tcommapi-0-0-1
+/fixup.c/1.1.2.5/Thu Apr 26 05:26:06 2007//Tcommapi-0-0-1
+/fuserImp.c/1.1.2.8/Fri Nov 14 00:43:59 2008//Tcommapi-0-0-1
+/init.c/1.1.2.2/Mon Jan 16 02:55:56 2006//Tcommapi-0-0-1
+/init.cc/1.1/Sat Dec  4 00:41:26 1999//Tcommapi-0-0-1
+/portmode.c/1.1.2.6/Thu Apr 26 05:26:06 2007//Tcommapi-0-0-1
+D/gnu////
+D/lfd////
+D/psmisc////
+/termios.c/1.9.2.62/Wed Feb  4 22:01:40 2009//Tcommapi-0-0-1
+/win32termios.h/1.5.2.34/Thu Feb  5 01:24:39 2009//Tcommapi-0-0-1
+/SerialImp.c/1.46.2.202/Wed Feb  4 22:06:16 2009//Tcommapi-0-0-1
+/SerialImp.h/1.11.2.54/Wed Feb  4 22:01:36 2009//Tcommapi-0-0-1
