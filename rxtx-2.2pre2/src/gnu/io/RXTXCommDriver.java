@@ -577,6 +577,7 @@ public class RXTXCommDriver implements CommDriver
 						"ttyS", // linux Serial Ports
 						"ttySA", // for the IPAQs
 						"ttyUSB", // for USB frobs
+						"ttyACM", // for CDC ACM devices
 						"rfcomm",       // bluetooth serial device
 						"ttyircomm", // linux IrCommdevices (IrDA serial emu)
 						};
